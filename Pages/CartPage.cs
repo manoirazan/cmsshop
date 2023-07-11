@@ -1,7 +1,5 @@
-﻿
-using cmsshop.Context;
+﻿using cmsshop.Context;
 using OpenQA.Selenium;
-using System.Diagnostics;
 
 namespace cmsshop.Pages
 {

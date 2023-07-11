@@ -1,11 +1,9 @@
-﻿using TechTalk.SpecFlow;
-using System.Drawing;
+﻿using System.Drawing;
 using WebDriverManager;
 using WebDriverManager.DriverConfigs.Impl;
 using WebDriverManager.Helpers;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using System;
 
 namespace cmsshop.Context
 {
